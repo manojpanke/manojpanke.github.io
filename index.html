@@ -41,11 +41,50 @@
 
     <!-- Main CSS File -->
     <link href="assets/css/main.css" rel="stylesheet">
+    <link href="assets/css/application.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/vendor/blueimp/css/blueimp-gallery.css" />
 
 </head>
 
 <body class="index-page">
-
+<!-- The Gallery as lightbox dialog, should be a document body child element -->
+<div
+        id="blueimp-gallery"
+        class="blueimp-gallery blueimp-gallery-controls blueimp-gallery-contain"
+        aria-label="image gallery"
+        aria-modal="true"
+        role="dialog"
+>
+    <div class="slides" aria-live="polite"></div>
+    <h3 class="title"></h3>
+    <a
+            class="prev"
+            aria-controls="blueimp-gallery"
+            aria-label="previous slide"
+            aria-keyshortcuts="ArrowLeft"
+    ></a>
+    <a
+            class="next"
+            aria-controls="blueimp-gallery"
+            aria-label="next slide"
+            aria-keyshortcuts="ArrowRight"
+    ></a>
+    <a
+            class="close"
+            aria-controls="blueimp-gallery"
+            aria-label="close"
+            aria-keyshortcuts="Escape"
+    ></a>
+    <a
+            class="play-pause"
+            aria-controls="blueimp-gallery"
+            aria-label="play slideshow"
+            aria-keyshortcuts="Space"
+            aria-pressed="false"
+            role="button"
+    ></a>
+    <ol class="indicator"></ol>
+</div>
 <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
 
@@ -145,7 +184,11 @@
                             <td>झोपडपट्टीवरील सर्व नळाला वॉल व तोटी बसवणे
                                 (22000+70300)</td>
                             <td>93300</td>
-                            <td><a href="#">link</a></td>
+                            <td>
+                                <a href="javascript:openFirstGallery(this)">
+                                    <img src="assets/team/Sarpanch.jpeg" alt="Sarpach" class="img-preview"/>
+                                </a>
+                            </td>
                         </tr>
                         <tr>
                             <td>2</td>
@@ -1025,6 +1068,11 @@
 <div id="preloader"></div>
 
 <!-- Vendor JS Files -->
+<script
+        src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"
+        integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ"
+        crossorigin="anonymous"
+></script>
 <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script src="assets/vendor/php-email-form/validate.js"></script>
 <script src="assets/vendor/aos/aos.js"></script>
@@ -1033,10 +1081,25 @@
 <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
 <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
 <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-
+<script src="assets/vendor/blueimp/js/blueimp-gallery.js"></script>
 <!-- Main JS File -->
 <script src="assets/js/main.js"></script>
-
+<script>
+    function openFirstGallery(event) {
+        console.log(event)
+        let links = ["assets/team/Sarpanch.jpeg", "assets/team/1_2_2022.jpeg","assets/team/1_1_2022.jpeg", "assets/team/1_3_2022.jpeg",
+            "assets/team/2_1_2022.jpeg","assets/team/2_2_2022.jpeg","assets/team/3_1_2022.jpeg", "assets/team/3_2_2022.jpeg", "assets/team/3_3_2022.jpeg"
+        ]
+        const linkArray = [];
+        links.forEach(value => {
+            let aTag = document.createElement('a');
+            aTag.setAttribute('href',value);
+            linkArray.push(aTag);
+        })
+        let options = { index: linkArray[0], event: undefined }
+        blueimp.Gallery(linkArray, options)
+    }
+</script>
 </body>
 
 </html>
