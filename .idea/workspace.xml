@@ -4,10 +4,97 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c00f8d4e-64e7-481a-8b9a-87a523ccd91c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/css/application.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/vendor/blueimp/css/blueimp-gallery.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="c00f8d4e-64e7-481a-8b9a-87a523ccd91c" name="Changes" comment="Correction suggested by Amar">
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Badist-Gatar-DP-Lendi-Yetil-299000/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Badist-Gatar-DP-Lendi-Yetil-299000/10.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Badist-Gatar-DP-Lendi-Yetil-299000/11.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Badist-Gatar-DP-Lendi-Yetil-299000/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Badist-Gatar-DP-Lendi-Yetil-299000/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Badist-Gatar-DP-Lendi-Yetil-299000/4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Badist-Gatar-DP-Lendi-Yetil-299000/5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Badist-Gatar-DP-Lendi-Yetil-299000/6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Badist-Gatar-DP-Lendi-Yetil-299000/7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Badist-Gatar-DP-Lendi-Yetil-299000/8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Badist-Gatar-DP-Lendi-Yetil-299000/9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Dahitane-Rd-to-Grampanchayat-OfficeRoad-918036/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Dahitane-Rd-to-Grampanchayat-OfficeRoad-918036/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Dahitane-Rd-to-Grampanchayat-OfficeRoad-918036/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Dahitane-Rd-to-Grampanchayat-OfficeRoad-918036/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Dahitane-Rd-to-Grampanchayat-OfficeRoad-918036/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Dahitane-Rd-to-Grampanchayat-OfficeRoad-918036/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Dahitane-Rd-to-Grampanchayat-OfficeRoad-918036/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Dahitane-Rd-to-Grampanchayat-OfficeRoad-918036/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Dahitane-Rd-to-Grampanchayat-OfficeRoad-918036/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Dahitane-Rd-to-Grampanchayat-OfficeRoad-918036/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Dahitane-Rd-to-Grampanchayat-OfficeRoad-918036/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Kaluke-Postmen-Sajjan-Jadhav-Galli-250000/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Kaluke-Postmen-Sajjan-Jadhav-Galli-250000/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Kaluke-Postmen-Sajjan-Jadhav-Galli-250000/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Kaluke-Postmen-Sajjan-Jadhav-Galli-250000/4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Kaluke-Postmen-Sajjan-Jadhav-Galli-250000/5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Kaluke-Postmen-Sajjan-Jadhav-Galli-250000/6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Kaluke-Postmen-Sajjan-Jadhav-Galli-250000/7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Lala-Sherkh-te-Rav-Matang-Samaj-181500/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/10.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/11.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/12.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/13.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/14.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/15.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/16.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/17.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/18.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/19.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/20.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/21.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/22.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/23.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/24.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/25.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/26.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/27.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/28.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/29.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/30.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/31.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/32.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/33.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/34.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Pani-Purwatha-wa-Durusti-200000/9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Sandpani-Ghankachara-268760/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Sandpani-Ghankachara-268760/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Sandpani-Ghankachara-268760/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Sandpani-Ghankachara-268760/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Sandpani-Ghankachara-268760/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Sandpani-Ghankachara-268760/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Sandpani-Ghankachara-268760/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Sandpani-Ghankachara-268760/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Sandpani-Ghankachara-268760/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Sandpani-wa-Ghankachara-Wawa-ZP-627228/IMG-20231010-WA0059.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Sarvajanik-Sauchalay-96000/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Sarvajanik-Sauchalay-96000/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Sarvajanik-Sauchalay-96000/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Sarvajanik-Sauchalay-96000/4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Sarvajanik-Sauchalay-96000/5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Sarvajanik-Sauchalay-96000/6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Sarvajanik-Sauchalay-96000/7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Sarvajanik-Sauchalay-ZP-nidhi-194730/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Shala-Bathroom-Durusti-50000/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Shala-Bathroom-Durusti-50000/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Shala-Bathroom-Durusti-50000/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Shala-Bathroom-Durusti-50000/4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Shala-Bathroom-Durusti-50000/5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Shale-sathi-Pani-Filter-50000/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/raleras/23-24/Shale-sathi-Pani-Filter-50000/2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,22 +105,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "manojpanke"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;manojpanke&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/manojpanke/manojpanke.github.io.git",
-    "accountId": "7f991944-a031-4e6f-b5d1-b1974f6d8b25"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/manojpanke/manojpanke.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;7f991944-a031-4e6f-b5d1-b1974f6d8b25&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2lTHYl5b3ENwk9bTUpZJvj76b1l" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,7 +131,7 @@
     "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Work/Java_Projects/RalerasWebApp",
+    "last_opened_file_path": "D:/Work/Java_Projects/RalerasWebApp/manojpanke.github.io/assets/img/raleras/23-24",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,6 +140,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\Java_Projects\RalerasWebApp\manojpanke.github.io\assets\img\raleras\23-24" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/manojpanke.github.io/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -78,8 +170,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725197196512</updated>
-      <workItem from="1725197198650" duration="7365000" />
+      <workItem from="1725197198650" duration="8698000" />
+      <workItem from="1725383442300" duration="926000" />
+      <workItem from="1725471209826" duration="6829000" />
     </task>
+    <task id="LOCAL-00001" summary="Correction suggested by Amar">
+      <option name="closed" value="true" />
+      <created>1725384079231</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725384079232</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,5 +198,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Correction suggested by Amar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correction suggested by Amar" />
   </component>
 </project>
